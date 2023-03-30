@@ -5,3 +5,9 @@ Best mod for CSS ever
 Put the **joebiden** folder into **Counter-Strike Source\cstrike\custom**
 
 
+# Discord server
+[join the discord immediately](https://discord.gg/QAUduZwpqN)
+
+
+
+
