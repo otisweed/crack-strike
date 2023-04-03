@@ -2,7 +2,7 @@
 {
 	game	"Counter-Strike Source"
 	title	"CRACK-STRIKE"
-	title2	"balls"
+	title2	""
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1
