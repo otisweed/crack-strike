@@ -311,7 +311,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Karmatic Arcade"
+				"name"		"Electronic Highway Sign"
 				"tall"		"12"
 				"weight"	"0"
 				"yres"		"480 599"
@@ -319,7 +319,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Karmatic Arcade"
+				"name"		"Electronic Highway Sign"
 				"tall"		"14"
 				"weight"	"0"
 				"yres"		"600 767"
@@ -327,7 +327,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Karmatic Arcade"
+				"name"		"Electronic Highway Sign"
 				"tall"		"15"
 				"weight"	"0"
 				"yres"		"768 1023"
@@ -335,7 +335,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Karmatic Arcade"
+				"name"		"Electronic Highway Sign"
 				"tall"		"17"
 				"weight"	"0"
 				"yres"		"1024 1199"
@@ -343,7 +343,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Karmatic Arcade"
+				"name"		"Electronic Highway Sign"
 				"tall"		"22"
 				"weight"	"0"
 				"yres"		"1200 10000"
@@ -759,5 +759,6 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"		
 		"3"		"resource/ka1.ttf"	
+		"4"		"resource/EHSMB.ttf"	
 	}
 }
